@@ -1,26 +1,43 @@
-# Narh Sistemi ve Enflasyon Kontrolü
+# Narh Sistemi ve Enflasyon Kontrolü: Adaletli Fiyatın Matematiği
 
-Ahilik sisteminin en özgün ekonomik araçlarından biri olan "Narh", piyasada fiyat istikrarını sağlamak ve hem tüketiciyi hem de üreticiyi korumak için geliştirilmiş bir tavan fiyat uygulamasıdır.
+Narh, Ahilik sisteminin en hassas ve en önemli ekonomik araçlarından biridir. Serbest piyasanın insafına bırakılmayan, matematiksel bir temele ve ahlaki bir denetime dayanan "adil fiyat" uygulamasıdır.
 
-## Narh Nedir?
+## Narh Nedir? (Tarihsel ve Teknik Tanım)
 
-Narh, bir malın veya hizmetin satılabileceği en yüksek fiyatın yetkililer (lonca yönetimi ve belediye işlerine bakan muhtesip) tarafından belirlenmesidir.
+Narh, bir malın veya hizmetin satılabileceği tavan fiyatın, lonca temsilcileri ve yerel idare (Muhtesip) tarafından belirlenmesidir. Ancak bu, bugünkü "emir komuta ekonomisi"ndeki keyfi fiyat sabitlemelerinden çok farklıdır.
 
-### Fiyat Belirleme Kriterleri:
-Narh belirlenirken şu kalemler şeffaf bir şekilde hesaplanırdı:
-* **Hammadde Maliyeti:** Malın üretiminde kullanılan girdilerin fiyatı.
-* **Usta ve İşçi Emeği:** Üretim sürecindeki insan emeğinin karşılığı.
-* **İşletme Giderleri:** Dükkan kirası, alet bakımı vb.
-* **Makul Kâr:** Genellikle %10 ile %20 arasında değişen, esnafın geçimini sağlayacak adil bir kâr payı.
+### Fiyatın Oluşum Matematiği:
+Narh belirlenirken şu kalemler şeffaf bir şekilde masaya yatırılırdı:
+1.  **Hammadde Maliyeti:** Malın üretiminde kullanılan girdi fiyatları.
+2.  **İşçilik ve Emek:** Usta, kalfa ve çırağın emeğinin karşılığı.
+3.  **Genel Giderler:** Dükkan kirası, aletlerin amortismanı, enerji maliyetleri.
+4.  **Ulaşım ve Nakliye:** Hammaddenin getirilmesi veya ürünün taşınması.
+5.  **Makul Kâr (Marj):** Genellikle %10 ile %15 arasında sabitlenen, esnafın insanca yaşamasını sağlayacak kâr payı.
 
-## Enflasyonla Mücadele ve Karaborsacılık
+## Enflasyonla Mücadele ve Karaborsacılığın Önlenmesi
 
-Narh sistemi, özellikle kıtlık zamanlarında fiyatların yapay olarak yükseltilmesini (fahiş fiyat ve karaborsacılık) engellerdi. Esnaf, maliyetleri bahane ederek keyfi zam yapamazdı. Eğer hammadde fiyatları artarsa, lonca heyeti toplanır ve yeni bir narh belirlerdi.
+Narh sistemi, özellikle savaş, kıtlık veya hammadde sıkıntısı dönemlerinde "fırsatçılığı" önlemek için en büyük kalkandır.
 
-## Kalite-Fiyat Dengesi
+*   **Fahiş Fiyat Yasağı:** Hiçbir esnaf, "mal azaldı, o zaman fiyatı iki katına çıkarayım" diyemezdi.
+*   **İhtikar (Stokçuluk) Denetimi:** Malı piyasadan çekip fiyatın yükselmesini beklemek, Ahilikten ebediyen men edilme sebebidir.
+*   **Sosyal Denge:** Narh, zenginin malı ucuza kapatmasını, fakirin ise temel ihtiyaçlarına ulaşamamasını engeller.
 
-Narh sadece bir fiyat değil, aynı zamanda bir "kalite standardı" idi. Belirlenen fiyata satılan malın, loncanın belirlediği standartlara uygun olması şarttı. "Kalitesiz malı ucuza satmak" veya "kaliteli malı narhın üzerinde satmak" yasaktı. Bu, piyasada güven ortamını tesis ederdi.
+## Kalite Standartları ile Bağlantı
 
-## Günümüz Ekonomisi İçin Çıkarımlar
+Narh sadece rakamsal bir değer değildir; aynı zamanda bir **kalite vaadidir**.
+*   Belirlenen narh fiyatına satılan bir ekmeğin gramajı, unun kalitesi ve pişme derecesi standartlara uygun olmak zorundadır.
+*   Düşük kaliteli malı narh fiyatına satmak "aldatıcılık" sayılırken, yüksek kaliteli malı narhın üzerinde satmak "düzeni bozmak" sayılırdı.
 
-Bugün "fiyat sabitleme" veya "tavan fiyat" uygulamaları serbest piyasa ekonomisinde eleştirilse de, Ahiliğin narh sistemi, ahlaki bir denetimle birleştiğinde toplumsal adaletin nasıl sağlandığının en somut örneğidir.
+## Narh Heyeti ve Denetim: Muhtesip
+
+Narh fiyatları, **Ehl-i Hibra** (Bilirkişiler) tarafından belirlenir ve belediye işlerinden sorumlu olan **Muhtesip** tarafından denetlenirdi. Muhtesipler, çarşıyı pazar gezer, tartıları kontrol eder ve narha uymayanlara anında ceza keserdi.
+
+## Modern İktisat ve Narh Sentezi
+
+Günümüz serbest piyasa teorisyenleri narh sistemini "verimliliği öldüren bir müdahale" olarak görse de, 2008 krizi ve sonrasındaki pandemi dönemi gibi kriz anlarında "tavan fiyat" uygulamalarının toplumsal barış için ne kadar kritik olduğu yeniden anlaşılmıştır.
+
+Ahiliğin Narh sistemi, "Piyasa görünmez bir elle yönetilir" diyen Adam Smith'e karşı; "Piyasa, vicdanlı ve adaletli bir insan eliyle (Muhtesip/Ahi) yönetilmelidir" diyen bir model sunar.
+
+## Sonuç
+
+Narh, paranın insan üzerindeki tahakkümünü kırmak ve ticareti "karşılıklı rıza ve adalet" zemininde tutmak için geliştirilmiş bir barış projesidir. Ahilikte kâr, bir amaç değil; dürüst hizmetin bir ödülüdür.
