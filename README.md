@@ -6,95 +6,64 @@
 
 `ahilik-akademisi` reposuna hoş geldiniz. Bu depo, 13. yüzyıl Anadolu'sunda Ahi Evran önderliğinde kurumsallaşan ve yüzyıllar boyunca sosyo-ekonomik hayatın omurgasını oluşturan **Ahilik** felsefesini, modern dünyanın iş dinamikleriyle sentezleyerek inceleyen açık kaynaklı bir araştırma ve eğitim merkezidir.
 
-Amacımız, Ahiliği yalnızca tarihi bir nostalji objesi olarak değil; bugünün "Paydaş Kapitalizmi" (Stakeholder Capitalism), Kurumsal Sosyal Sorumluluk (CSR) ve Çevresel/Sosyal Yönetişim (ESG) gibi modern konseptlerine yüzyıllar öncesinden getirilmiş evrensel bir alternatif, bir "kalite ve insan yönetim felsefesi" olarak ele almaktır.
+---
+
+## 👁️ Vizyon 2071: "Gelenekten Geleceğe İnsani Ekonomi"
+
+![Digital Ahilik Vizyonu](assets/digital-ahi.png)
+
+Vizyonumuz, Ahilik felsefesini tarihsel bir nostalji olmaktan çıkarıp; **Yapay Zeka**, **Blokzinciri** ve **Sürdürülebilir Sanayi** çağında küresel bir iş etiği standardı haline getirmektir. İnsanın teknolojiye kul olduğu değil, teknolojinin insanın kemalatına (olgunlaşmasına) hizmet ettiği, kâr hırsının yerini "teavün" (yardımlaşma) ruhuna bıraktığı adil bir ekonomik nizam hayal ediyoruz.
 
 ---
 
-## 📜 Ahiliğin Kökleri: Fütüvvetname ve İnsan İnşası
+## 📂 Depo Mimari ve Araştırma Klasörleri
 
-Ahilik, köklerini İslam'ın "Fütüvvet" (gençlik, yiğitlik, diğerkâmlık, cömertlik) anlayından alır ve bu felsefeyi Türk-İslam senteziyle pratik bir sosyo-ekonomik modele dönüştürür. 
+Bu akademi, bilgiyi yedi temel katmanda sınıflandırmaktadır:
 
-Sistemin anayasası niteliğindeki **Fütüvvetnameler**, bir esnafın sadece nasıl ticaret yapacağını değil; nasıl oturup kalkacağını, komşusuyla nasıl konuşacağını, yoksula nasıl davranacağını belirleyen kapsamlı ahlak ve görgü kuralları bütünüdür. Ahilik felsefesi, **Homo Economicus** (sadece kendi çıkarını maksimize etmeye çalışan bencil insan) modelini reddeder; yerine **Homo Islamicus/Ahi** (kendi kazanırken toplumun da kazanmasını, adaleti ve dengeyi gözeten insan) modelini inşa eder. 
-
----
-
-## ⚖️ Ahiliğin Sosyo-Ekonomik Mimarisi (Pazar Regülasyonları)
-
-Ahilik, serbest piyasanın vahşileşmesini ve tekelleşmeyi önlemek için kusursuz çalışan otokontrol mekanizmaları kurmuştur:
-
-### 1. Gedik Sistemi (Pazar Doygunluğu ve İstihdam Kontrolü)
-Gedik, bir bölgede belirli bir mesleği icra etme yetkisi ve kotalandırılmasıdır. Bir şehirde kaç fırın, kaç demirci olacağı, o şehrin nüfusuna ve ihtiyacına göre belirlenir. Amaç, gereksiz rekabetle esnafın birbirini iflasa sürüklemesini engellemek ve kaliteyi düşürecek fiyat savaşlarının önüne geçmektir. Yeni bir dükkan açılabilmesi için, nüfusun artması veya bir ustanın vefat etmesi (gediğin boşalması) gerekir.
-
-### 2. Narh Sistemi (Fiyat ve Enflasyon Kontrolü)
-Ahilikte malın fiyatı, serbest piyasanın acımasız dalgalanmalarına terk edilmez. Hammadde maliyeti, ustanın emeği ve makul bir kâr payı (genellikle %10-15 civarı) hesaplanarak malın satılabileceği tavan fiyat (Narh) belirlenir. Bu, hem üreticiyi zarardan hem de tüketiciyi fahiş fiyattan (karaborsacılıktan) koruyan mükemmel bir dengedir.
-
-### 3. Orta Sandığı (Teavün / Yardımlaşma Fonu)
-Modern kredi kooperatiflerinin ve işsizlik sigortasının atasıdır. Her esnaf, kazancının bir kısmını (genellikle binde birini) Orta Sandığı'na bağışlar. Bu fonda biriken para;
-* Dükkanı yanan veya batan esnafa faizsiz veya hibe olarak verilir.
-* Hammadde alımında sıkıntı çekenlere destek olunur.
-* Vefat eden esnafın ailesine bakılır.
-* Çıraklıktan kalfalığa geçen gençlere dükkan açma sermayesi sağlanır.
+- [**01- Felsefe ve Kökler**](01-felsefe-ve-kokenler/): Tasavvufi kökenler, Fütüvvetnameler ve insan inşası.
+- [**02- Ekonomi Politiği**](02-ekonomi-politigi/): Gedik sistemi, Narh (fiyat kontrolü) ve Orta Sandığı (mikrofinans).
+- [**03- Teşkilat Yapısı ve Sosyoloji**](03-teskilat-yapisi-ve-sosyoloji/): Bacıyan-ı Rum (kadın teşkilatı), eğitim hiyerarşisi ve ritüeller.
+- [**04- Modern İş Dünyasına Uyarlamalar**](04-modern-is-dunyasina-uyarlamalar/): ESG kriterleri, ISO/TSE kalite yönetimi ve CSR.
+- [**05- Tarihi Kaynaklar ve Menkibeler**](05-tarihi-kaynaklar-ve-menkibeler/): Kurucuların biyografileri ve ibretlik hikayeler.
+- [**06- Gelecek Vizyonu ve Projeksiyonlar**](06-gelecek-vizyonu-ve-projeksiyonlar/): Dijital Ahilik, AI etiği ve Blokzinciri entegrasyonu.
+- [**07- Vaka Analizleri ve Uygulamalar**](07-vaka-analizleri-ve-uygulamalar/): Modern kooperatifçilik ve dijital dönüşüm stratejileri.
 
 ---
 
-## 👩‍🏭 Dünyanın İlk Kadın Kooperatifi: Bacıyan-ı Rum
+## 🚀 Ahilik Akademisi Yol Haritası (Roadmap)
 
-Ahilik sadece erkek egemen bir yapı değildir. Ahi Evran'ın eşi **Fatma Bacı** tarafından kurulan **Bacıyan-ı Rum** (Anadolu Bacıları), dünyanın bilinen en eski kadın teşkilatlanmasıdır. 
-Kadınlar dokumacılık, çadır yapımı, keçecilik gibi alanlarda üretime katılmış, hem ekonomik bağımsızlıklarını kazanmış hem de ordunun ve toplumun ihtiyaçlarını karşılamışlardır. Bu yapı, kadının ticaretteki yerinin yüzyıllar öncesinden ne kadar sağlam temellere oturtulduğunun en büyük kanıtıdır.
+### Faz 1: Temel İnşası (Tamamlandı)
+- [x] Temel literatür taraması ve felsefi altyapının dökümante edilmesi.
+- [x] Modern iş dünyası kavramlarıyla (ESG, CSR) kavramsal eşleştirme.
 
----
+### Faz 2: Stratejik Genişleme (Şu An)
+- [ ] **Dijital Ahilik Protokolü**: Akıllı sözleşmelerle yönetilen bir "Dijital Orta Sandığı" teknik mimarisinin tasarlanması.
+- [ ] **Ahi Etik Sertifikasyonu**: Girişimler ve şirketler için bir "Ahilik Standartları" rehberi oluşturulması.
 
-## 🎓 Hiyerarşi, Eğitim ve Şed Kuşanma Ritüeli
+### Faz 3: Topluluk ve Eğitim
+- [ ] Interaktif "Ahi Mentorluk" ağının kurulması.
+- [ ] Üniversiteler ve STK'lar ile ortak vaka analizi çalışmaları.
 
-Ahilikte mesleki eğitim, katı ve sabır gerektiren bir süreçtir. "İnsan inşası" şu aşamalardan geçer:
-
-1.  **Yamak (Hazırlık):** Genellikle 10 yaşlarında başlar. Ustasına saygıyı, dükkan adabını ve temizliği öğrenir. Ücretsiz çalışır, karakter testinden geçer.
-2.  **Çırak:** Mesleğin inceliklerini öğrenmeye başlar. Sözleşmeli bir eğitim sürecidir.
-3.  **Kalfa:** Artık kendi başına iş yapabilecek yetkinliktedir, ancak ustasının gözetimindedir.
-4.  **Usta ve Şed Kuşanma (Peştamal Kuşanma):** Ahlaki ve mesleki olgunluğa (kemalata) erişen kalfa, Ahi heyeti huzurunda sınava tabi tutulur. Başarılı olursa, dualar eşliğinde kendisine "Şed" (Kuşak/Peştamal) bağlanır. Bu tören, onun artık bağımsız bir usta olduğunun, kendi dükkanını açabileceğinin ilanıdır.
-5.  **Ahi / Yiğitbaşı / Kethüda / Şeyh:** Meslekte ve ahlakta en üst seviyeye ulaşmış, teşkilatı yöneten ve denetleyen bilge liderlerdir.
-
----
-
-## 📂 Araştırma ve Eğitim Klasör Mimarisi
-
-Bu repodaki bilgiler, derinlemesine araştırma yapmak isteyenler için şu şekilde sınıflandırılmıştır:
-
-- [01-Felsefe ve Kökler](01-felsefe-ve-kokenler/)
-- [02-Ekonomi Politiği](02-ekonomi-politigi/)
-- [03-Teşkilat Yapısı ve Sosyoloji](03-teskilat-yapisi-ve-sosyoloji/)
-- [04-Modern İş Dünyasına Uyarlamalar](04-modern-is-dunyasina-uyarlamalar/)
-- [05-Tarihi Kaynaklar ve Menkibeler](05-tarihi-kaynaklar-ve-menkibeler/)
+### Faz 4: Küresel Model
+- [ ] İçeriğin çok dilli (İngilizce, Arapça, Rusça) hale getirilerek küresel iş etiği tartışmalarına dahil edilmesi.
 
 ---
 
-## 🕯️ Manifestolar ve Evrensel Prensipler
+## 💡 Startup ve Şirketler İçin Hızlı Uygulama Rehberi
 
-Ahilik sisteminin çalışma ahlakı, yüzyıllar boyunca esnafın duvarlarını süsleyen şu değişmez kaidelerle yaşatılmıştır:
-
-* *"Harama bakma, haram yeme, haram içme."*
-* *"Doğru, sabırlı, dayanıklı ol. Yalan söyleme."*
-* *"Büyüklerinden önce söze başlama. Kimseyi kandırma."*
-* *"Kanaatkâr ol. Dünya malına tamah etme."*
-* *"İşini sev, işini iyi yap, ölçü ve tartıda adil ol."*
-* *"Kuvvetliyken affetmesini, hiddetliyken yumuşamasını bil."*
+Şirketinize bugün Ahi ruhu katmak için 3 basit adım:
+1. **Şeffaf Narh**: Fiyat politikanızı müşterilerinize maliyet ve kâr oranlarıyla dürüstçe açıklayın.
+2. **Dijital Orta Sandığı**: Çalışanlarınızın zor günleri (sağlık, eğitim vb.) için şirket içi bir yardımlaşma havuzu oluşturun.
+3. **Usta-Çırak Mentorluğu**: Kıdemli çalışanlarınızın, genç yeteneklere sadece teknik değil, etik liderlik yapmasını teşvik edin.
 
 ---
 
-## 🤝 Akademiye ve Araştırmalara Katkı Sağlamak
+## 🤝 Katkıda Bulunmak
 
-Ahilik felsefesini tarihsel kaynaklarla desteklemek, modern ekonomik modellere uyarlamasını yapmak ve bu derin kültürü evrensel bir iş etiği standardı olarak sunmak için araştırmacıların katkılarını bekliyoruz:
-
-1. Repoyu çatallayın (Fork).
-2. İlgi alanınıza göre yeni bir çalışma dalı (branch) oluşturun: `git checkout -b narh-sistemi-analizi`
-3. İçeriğinizi kaynakça göstererek, akademik ve profesyonel bir dille ekleyin.
-4. Değişikliklerinizi commit edin.
-5. Geliştirmelerinizi Push edin ve bir Pull Request (PR) açın.
-
-Lütfen eklediğiniz metinlerin spekülasyondan uzak, tarihi vesikalara veya makroekonomik temellere dayalı olmasına özen gösterin.
+Ahilik felsefesi paylaştıkça çoğalan bir hazinedir. Akademik makaleler, modern vaka analizleri veya teknik projeksiyonlarınızla depoya katkı sağlayabilirsiniz. Lütfen [KATKI.md](CONTRIBUTING.md) dosyasını inceleyin.
 
 ---
 
 ## 📄 Lisans
 
-Bu akademi içeriği ve araştırmalar **MIT Lisansı** ile açık kaynak olarak sunulmaktadır. Ticaretin sadece bir hesap cüzdanı değil, bir karakter imtihanı olduğuna inanan herkes bu bilgileri özgürce kullanabilir ve geliştirebilir.
+Bu proje **MIT Lisansı** ile lisanslanmıştır. Bilgi, tüm insanlığın ortak mirasıdır.
